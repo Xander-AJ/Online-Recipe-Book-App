@@ -55,8 +55,8 @@ async function lookupMealById(mealId) {
 }
 
 // Example usage of the API functions
-searchMealByName('Egg-fried Rice');
-lookupMealById('1');
+searchMealByName('Arrabiata');
+lookupMealById('52772');
 
 // Custom Loader Element Node
 var loader = document.createElement('div')
