@@ -20,24 +20,15 @@
 ## Technologies Used
   The Online Recipe Book App is built using the following technologies:
 
-  1.) HTML: 
-      - For the structure and layout of the web pages.
-  2.) CSS: 
-      - For styling and design elements to enhance the user experience.
-  3.) JavaScript: 
-      - To add interactivity and dynamic functionality to the app.
-  4.) Fetch API: 
-      - Used to make requests to the backend server for data retrieval and manipulation.
-  5.) Node.js: 
-      - For server-side functionality and handling backend operations.
-  6.) Express.js: 
-      - A web framework for Node.js used to create server-side routes and APIs.
-  7.) MongoDB: 
-      - A NoSQL database used to store and manage recipe data.
-  8.) Mongoose: 
-      - An ODM (Object Data Modeling) library for MongoDB used to interact with the database from Node.js.
-  9.) Bootstrap: 
-      - A front-end framework for responsive and mobile-first design.
+  - HTML: For the structure and layout of the web pages.
+  - CSS: For styling and design elements to enhance the user experience.
+  - JavaScript: To add interactivity and dynamic functionality to the app.
+  - Fetch API: Used to make requests to the backend server for data retrieval and manipulation.
+  - Node.js: For server-side functionality and handling backend operations.
+  - Express.js: A web framework for Node.js used to create server-side routes and APIs.
+  - MongoDB: A NoSQL database used to store and manage recipe data.
+  - Mongoose: An ODM (Object Data Modeling) library for MongoDB used to interact with the database from Node.js.
+  - Bootstrap: A front-end framework for responsive and mobile-first design.
 
 ## Installation
   
