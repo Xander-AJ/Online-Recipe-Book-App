@@ -6,16 +6,11 @@
   This README.md file provides a comprehensive guide to understanding and using the Online Recipe Book App.
 
 ## Features
-  1.) Recipe Management: 
-      - Users can add new recipes to the collection, edit existing recipes, and delete recipes they no longer need.
-  2.) Detailed Recipe View: 
-      - Each recipe includes detailed information such as ingredients, cooking instructions, and serving sizes.
-  3.) Search Functionality: 
-      - Users can search for specific recipes using keywords or ingredients.
-  4.) Responsive Design: 
-      - The app is designed to be responsive and accessible on various devices, including desktops, tablets, and mobile phones.
-  5.) User-Friendly Interface: 
-      - The interface is intuitive and easy to navigate, making it suitable for users of all levels.
+  - Recipe Management: Users can add new recipes to the collection, edit existing recipes, and delete recipes they no longer need.
+  - Detailed Recipe View: Each recipe includes detailed information such as ingredients, cooking instructions, and serving sizes.
+  - Search Functionality: Users can search for specific recipes using keywords or ingredients.
+  - Responsive Design: The app is designed to be responsive and accessible on various devices, including desktops, tablets, and mobile phones.
+  - User-Friendly Interface: The interface is intuitive and easy to navigate, making it suitable for users of all levels.
 
 ## Technologies Used
   The Online Recipe Book App is built using the following technologies:
